@@ -20,7 +20,7 @@
     "dotenv": "^6.0.0",
     "mta-subway-complexes": "0.0.1",
     "mta-subway-stations": "0.0.2",
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^3.2.10",
     "protobufjs": "^5.0.1"
   },
   "devDependencies": {
