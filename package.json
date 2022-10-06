@@ -16,12 +16,12 @@
   "license": "MIT",
   "dependencies": {
     "array-unique": "^0.3.2",
-    "csv-parse": "^2.5.0",
+    "csv-parse": "^4.4.6",
     "dotenv": "^6.0.0",
-    "mta-subway-complexes": "0.0.1",
-    "mta-subway-stations": "0.0.2",
-    "node-fetch": "^2.1.2",
-    "protobufjs": "^5.0.1"
+    "mta-subway-complexes": "1.0.0",
+    "mta-subway-stations": "1.0.0",
+    "node-fetch": "^2.6.7",
+    "protobufjs": "^6.11.3"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
